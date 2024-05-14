@@ -1,0 +1,74 @@
+.App {
+	text-align: center;
+}
+
+@font-face {
+	font-family: 'PoetsenOne';
+	src: url('./fonts/PoetsenOne-Regular.ttf') format('truetype');
+	/* Add additional font formats if necessary */
+	/* Specify the correct path to the font files */
+}
+
+@font-face {
+	font-family: 'Ubuntu';
+	src: url('./fonts/Ubuntu-Regular.ttf') format('truetype');
+	/* Add additional font formats if necessary */
+	/* Specify the correct path to the font files */
+}
+
+.app {
+	margin: 20px;
+	text-align: center;
+}
+
+.App-logo {
+	height: 40vmin;
+	pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	.App-logo {
+		animation: App-logo-spin infinite 20s linear;
+	}
+}
+
+.poetsen {
+	font-family: 'PoetsenOne', sans-serif;
+}
+
+.watching-img {
+	width: 90%;
+	max-width: 300px;
+    margin: 0 auto;
+	margin-top: -20px;
+}
+
+.givingheart-img {
+	width: 50%;
+	max-width: 200px;
+	margin: 20px auto;
+}
+
+.App-header {
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
+}
+
+.video-responsive {
+	width: 100%;
+	max-width: 640px;
+	flex-direction: column;
+    align-self: center;
+	display: flex;
+	justify-content: center;
+}
+
+.video-responsive iframe {
+	width: 100%;
+}
