@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/youme/static/css/main.54e674a0.css",
-    "main.js": "/youme/static/js/main.2a92d805.js",
-    "static/media/Ubuntu-Regular.ttf": "/youme/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
-    "static/media/PoetsenOne-Regular.ttf": "/youme/static/media/PoetsenOne-Regular.22ae511e03fc2ed8d264.ttf",
-    "static/media/watching.png": "/youme/static/media/watching.36de490c6ed99fe3500e.png",
-    "static/media/givingheart.png": "/youme/static/media/givingheart.a183ab6de2cf52191e44.png",
-    "static/media/star.svg": "/youme/static/media/star.2402d48b082569188589f5d19be04c91.svg",
-    "index.html": "/youme/index.html",
-    "main.54e674a0.css.map": "/youme/static/css/main.54e674a0.css.map",
-    "main.2a92d805.js.map": "/youme/static/js/main.2a92d805.js.map"
+    "main.css": "/static/css/main.d08630fc.css",
+    "main.js": "/static/js/main.2d9ef9e2.js",
+    "static/media/background-gif.gif": "/static/media/background-gif.729b24ea9a5debc45065.gif",
+    "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/PoetsenOne-Regular.ttf": "/static/media/PoetsenOne-Regular.22ae511e03fc2ed8d264.ttf",
+    "static/media/watching.png": "/static/media/watching.36de490c6ed99fe3500e.png",
+    "static/media/givingheart.png": "/static/media/givingheart.a183ab6de2cf52191e44.png",
+    "static/media/star.svg": "/static/media/star.2402d48b082569188589f5d19be04c91.svg",
+    "index.html": "/index.html",
+    "main.d08630fc.css.map": "/static/css/main.d08630fc.css.map",
+    "main.2d9ef9e2.js.map": "/static/js/main.2d9ef9e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.54e674a0.css",
-    "static/js/main.2a92d805.js"
+    "static/css/main.d08630fc.css",
+    "static/js/main.2d9ef9e2.js"
   ]
 }
